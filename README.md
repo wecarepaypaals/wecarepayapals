@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -7,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>wecarepayapal.github.io</title>
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="wecarepayapal.github.io" />
 <meta property="og:locale" content="en_US" />
