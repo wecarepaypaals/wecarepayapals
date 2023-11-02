@@ -7,16 +7,15 @@
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="wecarepayapal.github.io" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://wecarepayapal.github.io/" />
-<meta property="og:url" content="https://wecarepayapal.github.io/" />
-<meta property="og:site_name" content="wecarepayapal.github.io" />
+<link rel="canonical" href="https://wecarepaypaals.github.io//" />
+<meta property="og:url" content="https://wecarepaypaals.github.io//" />
+<meta property="og:site_name" content="https://wecarepaypaals.github.io/" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="wecarepayapal.github.io" />
+<meta property="twitter:title" content="https://wecarepaypaals.github.io/" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"wecarepayapal.github.io","name":"wecarepayapal.github.io","url":"https://wecarepayapal.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"wecarepaypaals.github.io","name":"wecarepaypaals.github.io","url":"https://wecarepaypaals.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=6b43c636f97a7b6a194d945c9b1e7f6831cc57e3">
@@ -35,7 +34,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://wecarepayapal.github.io/">wecarepayapal.github.io</a></h1>
+      <h1><a href="https://wecarepaypaals.github.io/">wecarepaypaals.github.io</a></h1>
       
 
       
